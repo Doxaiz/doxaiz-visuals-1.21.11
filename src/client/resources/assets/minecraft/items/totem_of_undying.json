@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      { "when": "Furry", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_furry" } },
+      { "when": "Fury", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_furry" } },
+      { "when": "Mita_Sleepy", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_mita_sleepy" } },
+      { "when": "Mita_Mila", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_mita_mila" } },
+      { "when": "Mita_Cap", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_mita_cap" } },
+      { "when": "Mita_Kind", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_mita_kind" } },
+      { "when": "Anime_Alisa", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_anime_alisa" } },
+      { "when": "Anime_Alya", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_anime_alya" } },
+      { "when": "Anime_Missa", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_anime_missa" } },
+      { "when": "Gryaznaya", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_gryaznaya" } },
+      { "when": "Rimuru", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_rimuru" } },
+      { "when": "Skull", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_skull" } },
+      { "when": "SweetieFox", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_sweetiefox" } },
+      { "when": "Shape", "model": { "type": "minecraft:model", "model": "shape:item/custom_totem_shape" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/totem_of_undying" }
+  }
+}

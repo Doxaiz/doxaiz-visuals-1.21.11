@@ -1,0 +1,11 @@
+{
+  "id": "cyberpunk",
+  "displayName": "Cyberpunk",
+  "canvas": "#04070D",
+  "panel": "#081522",
+  "foreground": "#E9FFFF",
+  "subdued": "#6FA6B4",
+  "accent": "#00F5FF",
+  "secondary": "#FF2BD6",
+  "radius": 6
+}

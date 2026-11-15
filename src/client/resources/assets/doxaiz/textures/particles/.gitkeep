@@ -1,0 +1,6 @@
+# Add target_marker.png, target_marker2.png, target_marker3.png and logo.png here.
+# target_marker_kotnost.png - Target Marker texture mode "Kotnost" (same HUD logic as Default).
+# target_marker.png / target_marker2.png - icon above targeted entity.
+# target_marker3.png - used in Target Marker "Orbiting" mode (flies around target).
+# target_marker_chain.png - Target Marker texture mode "Chain" (tiling chain strip).
+# logo.png - watermark logo for HUD (any size, will be scaled).

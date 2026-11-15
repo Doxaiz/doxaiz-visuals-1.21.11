@@ -1,0 +1,66 @@
+{
+  "ui.open": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/open",
+        "stream": false
+      }
+    ]
+  },
+  "ui.close": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/close",
+        "stream": false
+      }
+    ]
+  },
+  "ui.click": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/click",
+        "stream": false
+      }
+    ]
+  },
+  "ui.hover": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/hover",
+        "stream": false
+      }
+    ]
+  },
+  "ui.equip": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/equip",
+        "stream": false
+      }
+    ]
+  },
+  "ui.unequip": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/unequip",
+        "stream": false
+      }
+    ]
+  },
+  "ui.category": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/category",
+        "stream": false
+      }
+    ]
+  },
+  "ui.typing": {
+    "sounds": [
+      {
+        "name": "lowcosmetic:ui/typing",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:inter_latin_700.ttf",
+      "size": 8.8,
+      "oversample": 3.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:inter_cyrillic_700.ttf",
+      "size": 8.8,
+      "oversample": 3.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}

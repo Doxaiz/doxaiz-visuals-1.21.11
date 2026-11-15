@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:golos_latin_500.ttf",
+      "size": 9.0,
+      "oversample": 8.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:golos_cyrillic_500.ttf",
+      "size": 9.0,
+      "oversample": 8.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}

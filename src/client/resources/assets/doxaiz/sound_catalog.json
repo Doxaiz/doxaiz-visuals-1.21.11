@@ -1,0 +1,906 @@
+{
+  "license": "Original synthetic audio generated for Doxaiz Visuals; MIT project terms",
+  "count": 150,
+  "sounds": [
+    {
+      "id": "hit_001",
+      "category": "hit",
+      "event": "fx.hit_001",
+      "name": "Hit 001"
+    },
+    {
+      "id": "hit_002",
+      "category": "hit",
+      "event": "fx.hit_002",
+      "name": "Hit 002"
+    },
+    {
+      "id": "hit_003",
+      "category": "hit",
+      "event": "fx.hit_003",
+      "name": "Hit 003"
+    },
+    {
+      "id": "hit_004",
+      "category": "hit",
+      "event": "fx.hit_004",
+      "name": "Hit 004"
+    },
+    {
+      "id": "hit_005",
+      "category": "hit",
+      "event": "fx.hit_005",
+      "name": "Hit 005"
+    },
+    {
+      "id": "hit_006",
+      "category": "hit",
+      "event": "fx.hit_006",
+      "name": "Hit 006"
+    },
+    {
+      "id": "hit_007",
+      "category": "hit",
+      "event": "fx.hit_007",
+      "name": "Hit 007"
+    },
+    {
+      "id": "hit_008",
+      "category": "hit",
+      "event": "fx.hit_008",
+      "name": "Hit 008"
+    },
+    {
+      "id": "hit_009",
+      "category": "hit",
+      "event": "fx.hit_009",
+      "name": "Hit 009"
+    },
+    {
+      "id": "hit_010",
+      "category": "hit",
+      "event": "fx.hit_010",
+      "name": "Hit 010"
+    },
+    {
+      "id": "hit_011",
+      "category": "hit",
+      "event": "fx.hit_011",
+      "name": "Hit 011"
+    },
+    {
+      "id": "hit_012",
+      "category": "hit",
+      "event": "fx.hit_012",
+      "name": "Hit 012"
+    },
+    {
+      "id": "hit_013",
+      "category": "hit",
+      "event": "fx.hit_013",
+      "name": "Hit 013"
+    },
+    {
+      "id": "hit_014",
+      "category": "hit",
+      "event": "fx.hit_014",
+      "name": "Hit 014"
+    },
+    {
+      "id": "hit_015",
+      "category": "hit",
+      "event": "fx.hit_015",
+      "name": "Hit 015"
+    },
+    {
+      "id": "hit_016",
+      "category": "hit",
+      "event": "fx.hit_016",
+      "name": "Hit 016"
+    },
+    {
+      "id": "hit_017",
+      "category": "hit",
+      "event": "fx.hit_017",
+      "name": "Hit 017"
+    },
+    {
+      "id": "hit_018",
+      "category": "hit",
+      "event": "fx.hit_018",
+      "name": "Hit 018"
+    },
+    {
+      "id": "hit_019",
+      "category": "hit",
+      "event": "fx.hit_019",
+      "name": "Hit 019"
+    },
+    {
+      "id": "hit_020",
+      "category": "hit",
+      "event": "fx.hit_020",
+      "name": "Hit 020"
+    },
+    {
+      "id": "hit_021",
+      "category": "hit",
+      "event": "fx.hit_021",
+      "name": "Hit 021"
+    },
+    {
+      "id": "hit_022",
+      "category": "hit",
+      "event": "fx.hit_022",
+      "name": "Hit 022"
+    },
+    {
+      "id": "hit_023",
+      "category": "hit",
+      "event": "fx.hit_023",
+      "name": "Hit 023"
+    },
+    {
+      "id": "hit_024",
+      "category": "hit",
+      "event": "fx.hit_024",
+      "name": "Hit 024"
+    },
+    {
+      "id": "hit_025",
+      "category": "hit",
+      "event": "fx.hit_025",
+      "name": "Hit 025"
+    },
+    {
+      "id": "crit_001",
+      "category": "crit",
+      "event": "fx.crit_001",
+      "name": "Crit 001"
+    },
+    {
+      "id": "crit_002",
+      "category": "crit",
+      "event": "fx.crit_002",
+      "name": "Crit 002"
+    },
+    {
+      "id": "crit_003",
+      "category": "crit",
+      "event": "fx.crit_003",
+      "name": "Crit 003"
+    },
+    {
+      "id": "crit_004",
+      "category": "crit",
+      "event": "fx.crit_004",
+      "name": "Crit 004"
+    },
+    {
+      "id": "crit_005",
+      "category": "crit",
+      "event": "fx.crit_005",
+      "name": "Crit 005"
+    },
+    {
+      "id": "crit_006",
+      "category": "crit",
+      "event": "fx.crit_006",
+      "name": "Crit 006"
+    },
+    {
+      "id": "crit_007",
+      "category": "crit",
+      "event": "fx.crit_007",
+      "name": "Crit 007"
+    },
+    {
+      "id": "crit_008",
+      "category": "crit",
+      "event": "fx.crit_008",
+      "name": "Crit 008"
+    },
+    {
+      "id": "crit_009",
+      "category": "crit",
+      "event": "fx.crit_009",
+      "name": "Crit 009"
+    },
+    {
+      "id": "crit_010",
+      "category": "crit",
+      "event": "fx.crit_010",
+      "name": "Crit 010"
+    },
+    {
+      "id": "crit_011",
+      "category": "crit",
+      "event": "fx.crit_011",
+      "name": "Crit 011"
+    },
+    {
+      "id": "crit_012",
+      "category": "crit",
+      "event": "fx.crit_012",
+      "name": "Crit 012"
+    },
+    {
+      "id": "crit_013",
+      "category": "crit",
+      "event": "fx.crit_013",
+      "name": "Crit 013"
+    },
+    {
+      "id": "crit_014",
+      "category": "crit",
+      "event": "fx.crit_014",
+      "name": "Crit 014"
+    },
+    {
+      "id": "crit_015",
+      "category": "crit",
+      "event": "fx.crit_015",
+      "name": "Crit 015"
+    },
+    {
+      "id": "crit_016",
+      "category": "crit",
+      "event": "fx.crit_016",
+      "name": "Crit 016"
+    },
+    {
+      "id": "crit_017",
+      "category": "crit",
+      "event": "fx.crit_017",
+      "name": "Crit 017"
+    },
+    {
+      "id": "crit_018",
+      "category": "crit",
+      "event": "fx.crit_018",
+      "name": "Crit 018"
+    },
+    {
+      "id": "crit_019",
+      "category": "crit",
+      "event": "fx.crit_019",
+      "name": "Crit 019"
+    },
+    {
+      "id": "crit_020",
+      "category": "crit",
+      "event": "fx.crit_020",
+      "name": "Crit 020"
+    },
+    {
+      "id": "magic_001",
+      "category": "magic",
+      "event": "fx.magic_001",
+      "name": "Magic 001"
+    },
+    {
+      "id": "magic_002",
+      "category": "magic",
+      "event": "fx.magic_002",
+      "name": "Magic 002"
+    },
+    {
+      "id": "magic_003",
+      "category": "magic",
+      "event": "fx.magic_003",
+      "name": "Magic 003"
+    },
+    {
+      "id": "magic_004",
+      "category": "magic",
+      "event": "fx.magic_004",
+      "name": "Magic 004"
+    },
+    {
+      "id": "magic_005",
+      "category": "magic",
+      "event": "fx.magic_005",
+      "name": "Magic 005"
+    },
+    {
+      "id": "magic_006",
+      "category": "magic",
+      "event": "fx.magic_006",
+      "name": "Magic 006"
+    },
+    {
+      "id": "magic_007",
+      "category": "magic",
+      "event": "fx.magic_007",
+      "name": "Magic 007"
+    },
+    {
+      "id": "magic_008",
+      "category": "magic",
+      "event": "fx.magic_008",
+      "name": "Magic 008"
+    },
+    {
+      "id": "magic_009",
+      "category": "magic",
+      "event": "fx.magic_009",
+      "name": "Magic 009"
+    },
+    {
+      "id": "magic_010",
+      "category": "magic",
+      "event": "fx.magic_010",
+      "name": "Magic 010"
+    },
+    {
+      "id": "magic_011",
+      "category": "magic",
+      "event": "fx.magic_011",
+      "name": "Magic 011"
+    },
+    {
+      "id": "magic_012",
+      "category": "magic",
+      "event": "fx.magic_012",
+      "name": "Magic 012"
+    },
+    {
+      "id": "magic_013",
+      "category": "magic",
+      "event": "fx.magic_013",
+      "name": "Magic 013"
+    },
+    {
+      "id": "magic_014",
+      "category": "magic",
+      "event": "fx.magic_014",
+      "name": "Magic 014"
+    },
+    {
+      "id": "magic_015",
+      "category": "magic",
+      "event": "fx.magic_015",
+      "name": "Magic 015"
+    },
+    {
+      "id": "magic_016",
+      "category": "magic",
+      "event": "fx.magic_016",
+      "name": "Magic 016"
+    },
+    {
+      "id": "magic_017",
+      "category": "magic",
+      "event": "fx.magic_017",
+      "name": "Magic 017"
+    },
+    {
+      "id": "magic_018",
+      "category": "magic",
+      "event": "fx.magic_018",
+      "name": "Magic 018"
+    },
+    {
+      "id": "magic_019",
+      "category": "magic",
+      "event": "fx.magic_019",
+      "name": "Magic 019"
+    },
+    {
+      "id": "magic_020",
+      "category": "magic",
+      "event": "fx.magic_020",
+      "name": "Magic 020"
+    },
+    {
+      "id": "notify_001",
+      "category": "notify",
+      "event": "fx.notify_001",
+      "name": "Notify 001"
+    },
+    {
+      "id": "notify_002",
+      "category": "notify",
+      "event": "fx.notify_002",
+      "name": "Notify 002"
+    },
+    {
+      "id": "notify_003",
+      "category": "notify",
+      "event": "fx.notify_003",
+      "name": "Notify 003"
+    },
+    {
+      "id": "notify_004",
+      "category": "notify",
+      "event": "fx.notify_004",
+      "name": "Notify 004"
+    },
+    {
+      "id": "notify_005",
+      "category": "notify",
+      "event": "fx.notify_005",
+      "name": "Notify 005"
+    },
+    {
+      "id": "notify_006",
+      "category": "notify",
+      "event": "fx.notify_006",
+      "name": "Notify 006"
+    },
+    {
+      "id": "notify_007",
+      "category": "notify",
+      "event": "fx.notify_007",
+      "name": "Notify 007"
+    },
+    {
+      "id": "notify_008",
+      "category": "notify",
+      "event": "fx.notify_008",
+      "name": "Notify 008"
+    },
+    {
+      "id": "notify_009",
+      "category": "notify",
+      "event": "fx.notify_009",
+      "name": "Notify 009"
+    },
+    {
+      "id": "notify_010",
+      "category": "notify",
+      "event": "fx.notify_010",
+      "name": "Notify 010"
+    },
+    {
+      "id": "notify_011",
+      "category": "notify",
+      "event": "fx.notify_011",
+      "name": "Notify 011"
+    },
+    {
+      "id": "notify_012",
+      "category": "notify",
+      "event": "fx.notify_012",
+      "name": "Notify 012"
+    },
+    {
+      "id": "notify_013",
+      "category": "notify",
+      "event": "fx.notify_013",
+      "name": "Notify 013"
+    },
+    {
+      "id": "notify_014",
+      "category": "notify",
+      "event": "fx.notify_014",
+      "name": "Notify 014"
+    },
+    {
+      "id": "notify_015",
+      "category": "notify",
+      "event": "fx.notify_015",
+      "name": "Notify 015"
+    },
+    {
+      "id": "notify_016",
+      "category": "notify",
+      "event": "fx.notify_016",
+      "name": "Notify 016"
+    },
+    {
+      "id": "notify_017",
+      "category": "notify",
+      "event": "fx.notify_017",
+      "name": "Notify 017"
+    },
+    {
+      "id": "notify_018",
+      "category": "notify",
+      "event": "fx.notify_018",
+      "name": "Notify 018"
+    },
+    {
+      "id": "notify_019",
+      "category": "notify",
+      "event": "fx.notify_019",
+      "name": "Notify 019"
+    },
+    {
+      "id": "notify_020",
+      "category": "notify",
+      "event": "fx.notify_020",
+      "name": "Notify 020"
+    },
+    {
+      "id": "glitch_001",
+      "category": "glitch",
+      "event": "fx.glitch_001",
+      "name": "Glitch 001"
+    },
+    {
+      "id": "glitch_002",
+      "category": "glitch",
+      "event": "fx.glitch_002",
+      "name": "Glitch 002"
+    },
+    {
+      "id": "glitch_003",
+      "category": "glitch",
+      "event": "fx.glitch_003",
+      "name": "Glitch 003"
+    },
+    {
+      "id": "glitch_004",
+      "category": "glitch",
+      "event": "fx.glitch_004",
+      "name": "Glitch 004"
+    },
+    {
+      "id": "glitch_005",
+      "category": "glitch",
+      "event": "fx.glitch_005",
+      "name": "Glitch 005"
+    },
+    {
+      "id": "glitch_006",
+      "category": "glitch",
+      "event": "fx.glitch_006",
+      "name": "Glitch 006"
+    },
+    {
+      "id": "glitch_007",
+      "category": "glitch",
+      "event": "fx.glitch_007",
+      "name": "Glitch 007"
+    },
+    {
+      "id": "glitch_008",
+      "category": "glitch",
+      "event": "fx.glitch_008",
+      "name": "Glitch 008"
+    },
+    {
+      "id": "glitch_009",
+      "category": "glitch",
+      "event": "fx.glitch_009",
+      "name": "Glitch 009"
+    },
+    {
+      "id": "glitch_010",
+      "category": "glitch",
+      "event": "fx.glitch_010",
+      "name": "Glitch 010"
+    },
+    {
+      "id": "glitch_011",
+      "category": "glitch",
+      "event": "fx.glitch_011",
+      "name": "Glitch 011"
+    },
+    {
+      "id": "glitch_012",
+      "category": "glitch",
+      "event": "fx.glitch_012",
+      "name": "Glitch 012"
+    },
+    {
+      "id": "glitch_013",
+      "category": "glitch",
+      "event": "fx.glitch_013",
+      "name": "Glitch 013"
+    },
+    {
+      "id": "glitch_014",
+      "category": "glitch",
+      "event": "fx.glitch_014",
+      "name": "Glitch 014"
+    },
+    {
+      "id": "glitch_015",
+      "category": "glitch",
+      "event": "fx.glitch_015",
+      "name": "Glitch 015"
+    },
+    {
+      "id": "tnt_001",
+      "category": "tnt",
+      "event": "fx.tnt_001",
+      "name": "Tnt 001"
+    },
+    {
+      "id": "tnt_002",
+      "category": "tnt",
+      "event": "fx.tnt_002",
+      "name": "Tnt 002"
+    },
+    {
+      "id": "tnt_003",
+      "category": "tnt",
+      "event": "fx.tnt_003",
+      "name": "Tnt 003"
+    },
+    {
+      "id": "tnt_004",
+      "category": "tnt",
+      "event": "fx.tnt_004",
+      "name": "Tnt 004"
+    },
+    {
+      "id": "tnt_005",
+      "category": "tnt",
+      "event": "fx.tnt_005",
+      "name": "Tnt 005"
+    },
+    {
+      "id": "tnt_006",
+      "category": "tnt",
+      "event": "fx.tnt_006",
+      "name": "Tnt 006"
+    },
+    {
+      "id": "tnt_007",
+      "category": "tnt",
+      "event": "fx.tnt_007",
+      "name": "Tnt 007"
+    },
+    {
+      "id": "tnt_008",
+      "category": "tnt",
+      "event": "fx.tnt_008",
+      "name": "Tnt 008"
+    },
+    {
+      "id": "tnt_009",
+      "category": "tnt",
+      "event": "fx.tnt_009",
+      "name": "Tnt 009"
+    },
+    {
+      "id": "tnt_010",
+      "category": "tnt",
+      "event": "fx.tnt_010",
+      "name": "Tnt 010"
+    },
+    {
+      "id": "tnt_011",
+      "category": "tnt",
+      "event": "fx.tnt_011",
+      "name": "Tnt 011"
+    },
+    {
+      "id": "tnt_012",
+      "category": "tnt",
+      "event": "fx.tnt_012",
+      "name": "Tnt 012"
+    },
+    {
+      "id": "tnt_013",
+      "category": "tnt",
+      "event": "fx.tnt_013",
+      "name": "Tnt 013"
+    },
+    {
+      "id": "tnt_014",
+      "category": "tnt",
+      "event": "fx.tnt_014",
+      "name": "Tnt 014"
+    },
+    {
+      "id": "tnt_015",
+      "category": "tnt",
+      "event": "fx.tnt_015",
+      "name": "Tnt 015"
+    },
+    {
+      "id": "vocal_fx_001",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_001",
+      "name": "Vocal Fx 001"
+    },
+    {
+      "id": "vocal_fx_002",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_002",
+      "name": "Vocal Fx 002"
+    },
+    {
+      "id": "vocal_fx_003",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_003",
+      "name": "Vocal Fx 003"
+    },
+    {
+      "id": "vocal_fx_004",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_004",
+      "name": "Vocal Fx 004"
+    },
+    {
+      "id": "vocal_fx_005",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_005",
+      "name": "Vocal Fx 005"
+    },
+    {
+      "id": "vocal_fx_006",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_006",
+      "name": "Vocal Fx 006"
+    },
+    {
+      "id": "vocal_fx_007",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_007",
+      "name": "Vocal Fx 007"
+    },
+    {
+      "id": "vocal_fx_008",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_008",
+      "name": "Vocal Fx 008"
+    },
+    {
+      "id": "vocal_fx_009",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_009",
+      "name": "Vocal Fx 009"
+    },
+    {
+      "id": "vocal_fx_010",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_010",
+      "name": "Vocal Fx 010"
+    },
+    {
+      "id": "vocal_fx_011",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_011",
+      "name": "Vocal Fx 011"
+    },
+    {
+      "id": "vocal_fx_012",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_012",
+      "name": "Vocal Fx 012"
+    },
+    {
+      "id": "vocal_fx_013",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_013",
+      "name": "Vocal Fx 013"
+    },
+    {
+      "id": "vocal_fx_014",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_014",
+      "name": "Vocal Fx 014"
+    },
+    {
+      "id": "vocal_fx_015",
+      "category": "vocal_fx",
+      "event": "fx.vocal_fx_015",
+      "name": "Vocal Fx 015"
+    },
+    {
+      "id": "meme_fx_001",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_001",
+      "name": "Meme Fx 001"
+    },
+    {
+      "id": "meme_fx_002",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_002",
+      "name": "Meme Fx 002"
+    },
+    {
+      "id": "meme_fx_003",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_003",
+      "name": "Meme Fx 003"
+    },
+    {
+      "id": "meme_fx_004",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_004",
+      "name": "Meme Fx 004"
+    },
+    {
+      "id": "meme_fx_005",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_005",
+      "name": "Meme Fx 005"
+    },
+    {
+      "id": "meme_fx_006",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_006",
+      "name": "Meme Fx 006"
+    },
+    {
+      "id": "meme_fx_007",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_007",
+      "name": "Meme Fx 007"
+    },
+    {
+      "id": "meme_fx_008",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_008",
+      "name": "Meme Fx 008"
+    },
+    {
+      "id": "meme_fx_009",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_009",
+      "name": "Meme Fx 009"
+    },
+    {
+      "id": "meme_fx_010",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_010",
+      "name": "Meme Fx 010"
+    },
+    {
+      "id": "meme_fx_011",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_011",
+      "name": "Meme Fx 011"
+    },
+    {
+      "id": "meme_fx_012",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_012",
+      "name": "Meme Fx 012"
+    },
+    {
+      "id": "meme_fx_013",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_013",
+      "name": "Meme Fx 013"
+    },
+    {
+      "id": "meme_fx_014",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_014",
+      "name": "Meme Fx 014"
+    },
+    {
+      "id": "meme_fx_015",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_015",
+      "name": "Meme Fx 015"
+    },
+    {
+      "id": "meme_fx_016",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_016",
+      "name": "Meme Fx 016"
+    },
+    {
+      "id": "meme_fx_017",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_017",
+      "name": "Meme Fx 017"
+    },
+    {
+      "id": "meme_fx_018",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_018",
+      "name": "Meme Fx 018"
+    },
+    {
+      "id": "meme_fx_019",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_019",
+      "name": "Meme Fx 019"
+    },
+    {
+      "id": "meme_fx_020",
+      "category": "meme_fx",
+      "event": "fx.meme_fx_020",
+      "name": "Meme Fx 020"
+    }
+  ]
+}

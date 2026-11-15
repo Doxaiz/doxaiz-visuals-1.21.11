@@ -1,0 +1,11 @@
+{
+  "id": "fantasy",
+  "displayName": "Fantasy",
+  "canvas": "#0D101B",
+  "panel": "#182033",
+  "foreground": "#FFF4D6",
+  "subdued": "#B8AA88",
+  "accent": "#6FCF97",
+  "secondary": "#D7B56D",
+  "radius": 12
+}

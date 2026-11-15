@@ -1,0 +1,168 @@
+{
+  "adaptive.clickgui": {
+    "sounds": [{ "name": "doxaiz:adaptive/clickgui", "stream": false }]
+  },
+  "adaptive.module_enable": {
+    "sounds": [{ "name": "doxaiz:adaptive/module_enable", "stream": false }]
+  },
+  "adaptive.module_disable": {
+    "sounds": [{ "name": "doxaiz:adaptive/module_disable", "stream": false }]
+  },
+  "adaptive.music": {
+    "sounds": [{ "name": "doxaiz:adaptive/music", "stream": true }]
+  },
+  "adaptive.typing": {
+    "sounds": [{ "name": "doxaiz:adaptive/typing", "stream": false }]
+  },
+
+  "soup.8bit": {
+    "sounds": [{ "name": "doxaiz:soup/8bit", "stream": false }]
+  },
+  "soup.aimbooster_hit": {
+    "sounds": [{ "name": "doxaiz:soup/aimbooster_hit", "stream": false }]
+  },
+  "soup.bell": {
+    "sounds": [{ "name": "doxaiz:soup/bell", "stream": false }]
+  },
+  "soup.blip": {
+    "sounds": [{ "name": "doxaiz:soup/blip", "stream": false }]
+  },
+  "soup.bonk": {
+    "sounds": [{ "name": "doxaiz:soup/bonk", "stream": false }]
+  },
+  "soup.brick": {
+    "sounds": [{ "name": "doxaiz:soup/brick", "stream": false }]
+  },
+  "soup.bubble": {
+    "sounds": [{ "name": "doxaiz:soup/bubble", "stream": false }]
+  },
+  "soup.change_category": {
+    "sounds": [{ "name": "doxaiz:soup/change_category", "stream": false }]
+  },
+  "soup.click": {
+    "sounds": [{ "name": "doxaiz:soup/click", "stream": false }]
+  },
+  "soup.drum_bass": {
+    "sounds": [{ "name": "doxaiz:soup/drum_bass", "stream": false }]
+  },
+  "soup.get": {
+    "sounds": [{ "name": "doxaiz:soup/get", "stream": false }]
+  },
+  "soup.glass": {
+    "sounds": [{ "name": "doxaiz:soup/glass", "stream": false }]
+  },
+  "soup.gui_close": {
+    "sounds": [{ "name": "doxaiz:soup/gui_close", "stream": false }]
+  },
+  "soup.gui_open": {
+    "sounds": [{ "name": "doxaiz:soup/gui_open", "stream": false }]
+  },
+  "soup.magic_pok": {
+    "sounds": [{ "name": "doxaiz:soup/magic_pok", "stream": false }]
+  },
+  "soup.module_disable": {
+    "sounds": [{ "name": "doxaiz:soup/module_disable", "stream": false }]
+  },
+  "soup.module_enable": {
+    "sounds": [{ "name": "doxaiz:soup/module_enable", "stream": false }]
+  },
+  "soup.off": {
+    "sounds": [{ "name": "doxaiz:soup/off", "stream": false }]
+  },
+  "soup.on": {
+    "sounds": [{ "name": "doxaiz:soup/on", "stream": false }]
+  },
+  "soup.plastic_ball": {
+    "sounds": [{ "name": "doxaiz:soup/plastic_ball", "stream": false }]
+  },
+  "soup.pop": {
+    "sounds": [{ "name": "doxaiz:soup/pop", "stream": false }]
+  },
+  "soup.slider_step": {
+    "sounds": [{ "name": "doxaiz:soup/slider_step", "stream": false }]
+  },
+  "soup.squish": {
+    "sounds": [{ "name": "doxaiz:soup/squish", "stream": false }]
+  },
+  "soup.trinket_hit": {
+    "sounds": [{ "name": "doxaiz:soup/trinket_hit", "stream": false }]
+  },
+  "soup.turn_off_click": {
+    "sounds": [{ "name": "doxaiz:soup/turn_off_click", "stream": false }]
+  },
+  "soup.turn_on_click": {
+    "sounds": [{ "name": "doxaiz:soup/turn_on_click", "stream": false }]
+  },
+
+  "soup.abmiss": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/abmiss", "stream": false }]
+  },
+  "soup.critow": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/critow", "stream": false }]
+  },
+  "soup.final_blink": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/final_blink", "stream": false }]
+  },
+  "soup.final_pok": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/final_pok", "stream": false }]
+  },
+  "soup.neptune": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/neptune", "stream": false }]
+  },
+  "soup.rust_headshot": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/rust_headshot", "stream": false }]
+  },
+  "soup.whii": {
+    "sounds": [{ "name": "doxaiz:soup/kill_sounds/whii", "stream": false }]
+  },
+
+  "shape.totem.anime": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/anime_use", "stream": false }]
+  },
+  "shape.totem.furry": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/furry_use", "stream": false }]
+  },
+  "shape.totem.gryaznaya": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/gryaznaya_use", "stream": false }]
+  },
+  "shape.totem.mita": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/mita_use", "stream": false }]
+  },
+  "shape.totem.omni": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/omni_use", "stream": false }]
+  },
+  "shape.totem.rimuru": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/rimuru_use", "stream": false }]
+  },
+  "shape.totem.shape": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/shape_use", "stream": false }]
+  },
+  "shape.totem.skull": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/skull_use", "stream": false }]
+  },
+  "shape.totem.sweetiefox": {
+    "sounds": [{ "name": "doxaiz:shape/item/totem/sweetiefox_use", "stream": false }]
+  },
+
+  "shape.hitsound.crime": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/crime", "stream": false }]
+  },
+  "shape.hitsound.metallic": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/metallic", "stream": false }]
+  },
+  "shape.hitsound.rust": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/rust", "stream": false }]
+  },
+  "shape.hitsound.moan1": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/moan1", "stream": false }]
+  },
+  "shape.hitsound.moan2": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/moan2", "stream": false }]
+  },
+  "shape.hitsound.moan3": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/moan3", "stream": false }]
+  },
+  "shape.hitsound.moan4": {
+    "sounds": [{ "name": "doxaiz:shape/hitsound/moan4", "stream": false }]
+  }
+}

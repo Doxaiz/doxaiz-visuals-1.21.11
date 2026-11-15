@@ -1,0 +1,10 @@
+{
+  "id": "classic",
+  "displayName": "Classic",
+  "canvas": "#121212",
+  "panel": "#202020",
+  "foreground": "#FFFFFF",
+  "subdued": "#A8A8A8",
+  "accent": "#5E9FE8",
+  "radius": 8
+}

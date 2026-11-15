@@ -1,0 +1,39 @@
+# Gradle & Build outputs
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Fabric Loom & Minecraft runtime
+run/
+.loom-cache/
+remappedSrc/
+
+# IDE & Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# Temporary & backup folders
+src_backup*/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets & environment
+.env
+.env.*
+*.pem
+*.key
+credentials.json

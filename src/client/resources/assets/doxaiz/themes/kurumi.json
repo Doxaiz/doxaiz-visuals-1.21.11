@@ -1,0 +1,12 @@
+{
+  "id": "kurumi",
+  "displayName": "Kurumi-inspired",
+  "canvas": "#090614",
+  "panel": "#18112E",
+  "foreground": "#F5F1FF",
+  "subdued": "#9F93BF",
+  "accent": "#8B5CF6",
+  "secondary": "#D6B56D",
+  "danger": "#FB7185",
+  "radius": 14
+}

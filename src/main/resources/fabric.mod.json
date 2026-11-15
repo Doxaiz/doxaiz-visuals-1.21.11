@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "doxaiz",
+  "version": "${version}",
+  "name": "Doxaiz Visuals",
+  "description": "Modern Visuals, Sleek Glass HUD & Cosmetics Mod for Minecraft 1.21.11",
+  "authors": [
+    "Doxaiz"
+  ],
+  "contact": {
+    "homepage": "https://doxaiz.net"
+  },
+  "license": "MIT",
+  "icon": "assets/doxaiz/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lowcode.svintusclient.client.SvintusclientClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "doxaiz.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "accessWidener": "svintusclient.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

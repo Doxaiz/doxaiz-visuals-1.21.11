@@ -1,0 +1,35 @@
+{
+  "required": true,
+  "package": "com.lowcode.svintusclient.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "doxaiz.client.refmap.json",
+  "client": [
+    "BossBarHudMixin",
+    "CameraMixin",
+    "ClientPlayerEntityMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "EntityRendererMixin",
+    "FogRendererMixin",
+    "GameRendererMixin",
+    "HandledScreenMixin",
+    "InGameHudMixin",
+    "InGameOverlayRendererMixin",
+    "ItemEntityRendererMixin",
+    "ItemInHandRendererMixin",
+    "ItemModelResolverMixin",
+    "LightmapTextureManagerMixin",
+    "LivingEntityMixin",
+    "LivingEntityRendererMixin",
+    "MinecraftClientAccessor",
+    "MinecraftClientMixin",
+    "MouseMixin",
+    "ParticleManagerMixin",
+    "PlayerEntityRendererMixin",
+    "PlayerListHudMixin",
+    "SkyRenderingMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

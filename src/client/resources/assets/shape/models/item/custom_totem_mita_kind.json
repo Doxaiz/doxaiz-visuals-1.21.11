@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "shape:item/custom_totem_mita_kind" },
+  "display": {
+    "thirdperson_righthand": { "rotation": [0, 0, 0], "translation": [0, 3, 0], "scale": [0.45, 0.45, 0.45] },
+    "thirdperson_lefthand": { "rotation": [0, 0, 0], "translation": [0, 3, 0], "scale": [0.45, 0.45, 0.45] },
+    "firstperson_righthand": { "rotation": [0, -90, 25], "translation": [1.13, 3.2, 0.7], "scale": [0.34, 0.34, 0.34] },
+    "firstperson_lefthand": { "rotation": [0, -90, 25], "translation": [1.13, 3.2, 0.7], "scale": [0.34, 0.34, 0.34] }
+  }
+}

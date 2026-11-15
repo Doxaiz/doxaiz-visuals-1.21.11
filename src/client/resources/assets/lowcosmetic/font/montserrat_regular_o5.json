@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:montserrat_latin_500.ttf",
+      "size": 8.6,
+      "oversample": 5.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "ttf",
+      "file": "lowcosmetic:montserrat_cyrillic_500.ttf",
+      "size": 8.6,
+      "oversample": 5.0,
+      "shift": [
+        0.0,
+        0.5
+      ],
+      "skip": []
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}

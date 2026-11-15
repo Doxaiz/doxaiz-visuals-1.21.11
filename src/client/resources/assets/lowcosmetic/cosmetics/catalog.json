@@ -1,0 +1,311 @@
+{
+  "_comment": "id = номер файла models/cosmetic_<id>.json. type: cape|wings|hat|bodywear|pet. rarity: common|uncommon|rare|epic|legendary. Плащ, у которого нет текстуры, просто не появится в меню.",
+  "cosmetics": [
+    {
+      "id": 14,
+      "name": "Крылья Неона",
+      "type": "wings",
+      "rarity": "epic"
+    },
+    {
+      "id": 15,
+      "name": "Тёмные крылья",
+      "type": "wings",
+      "rarity": "epic"
+    },
+    {
+      "id": 16,
+      "name": "Крылья Гуля",
+      "type": "wings",
+      "rarity": "epic"
+    },
+    {
+      "id": 17,
+      "name": "Крылья Рокера",
+      "type": "wings",
+      "rarity": "rare"
+    },
+    {
+      "id": 18,
+      "name": "Крылья Воты",
+      "type": "wings",
+      "rarity": "rare"
+    },
+    {
+      "id": 19,
+      "name": "Крылья Флюгера",
+      "type": "wings",
+      "rarity": "rare"
+    },
+    {
+      "id": 20,
+      "name": "Крылья Трезубца",
+      "type": "wings",
+      "rarity": "epic"
+    },
+    {
+      "id": 21,
+      "name": "Пасхальные крылья",
+      "type": "wings",
+      "rarity": "rare"
+    },
+    {
+      "id": 22,
+      "name": "Крылья Ангела",
+      "type": "wings",
+      "rarity": "legendary"
+    },
+    {
+      "id": 23,
+      "name": "Крылья Дракончика",
+      "type": "wings",
+      "rarity": "epic"
+    },
+    {
+      "id": 24,
+      "name": "Синие крылья дракона",
+      "type": "wings",
+      "rarity": "legendary"
+    },
+    {
+      "id": 25,
+      "name": "Крылья Паука",
+      "type": "wings",
+      "rarity": "legendary"
+    },
+    {
+      "id": 26,
+      "name": "Вулканические крылья",
+      "type": "wings",
+      "rarity": "legendary"
+    },
+    {
+      "id": 27,
+      "name": "Катана за спиной",
+      "type": "wings",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 38,
+      "name": "Питомец Дракоша",
+      "type": "pet",
+      "rarity": "epic"
+    },
+    {
+      "id": 39,
+      "name": "Питомец Котик",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 40,
+      "name": "Питомец Лисёнок",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 41,
+      "name": "Питомец Волчонок",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 42,
+      "name": "Питомец Тортик",
+      "type": "pet",
+      "rarity": "epic"
+    },
+    {
+      "id": 43,
+      "name": "Питомец Пчёлка",
+      "type": "pet",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 44,
+      "name": "Питомец Пингвинёнок",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 46,
+      "name": "Алмазный питомец",
+      "type": "pet",
+      "rarity": "epic"
+    },
+    {
+      "id": 47,
+      "name": "Питомец Редиска",
+      "type": "pet",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 48,
+      "name": "Питомец Демон",
+      "type": "pet",
+      "rarity": "legendary"
+    },
+    {
+      "id": 49,
+      "name": "Питомец Ангел",
+      "type": "pet",
+      "rarity": "legendary"
+    },
+    {
+      "id": 50,
+      "name": "Тёмная шляпа",
+      "type": "hat",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 51,
+      "name": "Сияющий нимб",
+      "type": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": 52,
+      "name": "Лиственная шапка",
+      "type": "hat",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 54,
+      "name": "Маска Бродяги",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 55,
+      "name": "Шапка Пингвина",
+      "type": "hat",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 56,
+      "name": "Шляпа Флюгера",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 57,
+      "name": "Шапка Медвежонка",
+      "type": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": 58,
+      "name": "Шляпа Броненосца",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 59,
+      "name": "Шляпа Верблюда",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 60,
+      "name": "Шапка Курицы",
+      "type": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": 61,
+      "name": "Шляпа Жабки",
+      "type": "hat",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 62,
+      "name": "Шапка Овечки",
+      "type": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": 83,
+      "name": "Питомец Чекушка",
+      "type": "pet",
+      "rarity": "epic"
+    },
+    {
+      "id": 84,
+      "name": "Ушастый козлик",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 85,
+      "name": "Наплечный козлик",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 86,
+      "name": "Питомец Призрак",
+      "type": "pet",
+      "rarity": "rare"
+    },
+    {
+      "id": 87,
+      "name": "Питомец Сова",
+      "type": "pet",
+      "rarity": "epic"
+    },
+    {
+      "id": 89,
+      "name": "Красная шляпа",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 90,
+      "name": "Шапка Коровки",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 91,
+      "name": "Шапка Лисички",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 92,
+      "name": "Шапка Козлика",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 93,
+      "name": "Шапка Панды",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 94,
+      "name": "Шапка Хрюшки",
+      "type": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": 95,
+      "name": "Шапка Кролика",
+      "type": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": 96,
+      "name": "Шапка Цыплёнка",
+      "type": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": 98,
+      "name": "Питомец Воты",
+      "type": "pet",
+      "rarity": "epic"
+    }
+  ]
+}

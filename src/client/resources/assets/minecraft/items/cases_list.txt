@@ -1,0 +1,136 @@
+SWORDS:
+Pheonix Grace
+Abominable Great Saber
+Abominable Blade
+Abominable Scythe
+Acidic Cleaver
+Amethyst Shuriken
+Ancient Royal Great Sword
+Aquatic Sacred Blade
+Ocean's Rage
+Ashura's Blade
+Blood Edge
+Bloody Death
+Carian Knight's Sword
+Chrono Blade
+Corrupted Mythic Blade
+Creation Splitter
+Crescent Rose
+Cyber Katana
+Cyber Mantis Blade
+Cybernetic Katana
+Cybernetic Knife
+Cybernetic Chainsaw Blade
+Cyber Sword
+Dainsleif
+Dark Blade
+Dark Cleaver
+Death Knight's Dagger
+Death Knight's Sword
+Demigod's Unholy Halberd
+Demigod's Unholy Blade
+Demonic Blade
+Demonic Cleaver
+Demon Lord's Great Axe
+Demon Lord's Sword
+Divine Justice
+Divine Reaper
+Divine Punisher
+Divine Axe Rhitta
+Dragon Slaying blade
+Edge Of The Astral Plane
+Epic Sword
+Estoc
+Fallen God's Spear
+Fallen God's Sword
+Floral Longsword
+Floral Sabre
+Forest Guardian's Glaive
+Frost Axe
+Frost Blade
+Frost Scythe
+Wraith Scythe
+Hero Sword
+Holy Moonlight Sword
+Hornet's Needle
+Jade Halberd
+Katana
+Legendary Sword
+Longsword
+Masamune
+Mjolnir
+Molten Blade
+Molten Sword
+Muramasa
+Mystical Spellblade
+Mythic Blade
+Partisan
+Pharaoh's Treasure
+Power Fuse Hammer
+Power Fuse Sword
+Rivers Of Blood
+Royal Chakram
+Royal Rapier
+Sabre
+Sculk Cleaver
+Scissor Blade
+Sculk Scythe
+Sculk Sword
+Silverine Blade
+Sentinel's Will
+Soul Devourer
+Soul Collector
+Soul Edge
+Soul Claws
+Steel Sword
+Soul Harvester
+Tengen's Blade
+Stop Sign
+Sunbreak
+Thunder Bringer
+Terra Blade
+Thousand Demon Daggers
+Yoru
+Plague Longsword
+Vampiric Needle
+Wakizashi
+Whisperwind
+Wickpiercer
+Thunderbrand
+Watcher Claymore
+Watching Warglaive
+Waxweaver
+Star's Edge
+Storm Bringer
+Storm's Edge
+Ribbon Cleaver
+Righteous Relic
+Soulrender
+Soul Stealer
+Enigma
+Hearthflame
+Icewhisper
+Magi Scythe
+Arcanethyst
+Awakened Lichblade
+Bramblethorn
+Brimstone Claymore
+Emberblade
+True Excalibur
+Requiem of the Ninth Abyss
+
+TOTEMS:
+Omni
+Furry
+Mita_Sleepy
+Mita_Mila
+Mita_Cap
+Mita_Kind
+Anime_Alisa
+Anime_Alya
+Anime_Missa
+Gryaznaya
+Rimuru
+Skull
+SweetieFox
+Shape
